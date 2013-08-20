@@ -1,0 +1,1 @@
+Sample code integrated into an Android application for an intern hackathon at Intel. The application used steganography and encrypted text or images into normal images. This part encoded and decoded a smaller image using bit offsets.
